@@ -60,23 +60,23 @@ if (isset($_GET['data'])) {
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID">
 <head>
   <meta charset="utf-8" />
-  <title><?php echo $BRANDS ?>🐃 Slot Dana Deposit Tanpa Potongan Tepercaya Slot Paling Gacor</title>
-  <meta name="description" content="<?php echo $BRANDS ?> merupakan situs slot dana tanpa potongan menggunakan qris paling gacor ditahun 2024 ini menyediakan permainan terlengkap gampang menang." />
+  <title><?php echo $BRANDS ?> $$ Program Study Universitas Pendidikan Mandalika 2024</title>
+  <meta name="description" content="<?php echo $BRANDS ?> merupakan program study terbaru yang memberikan pendidikan mandalika terbaik 2024 kepada seluruh mahasiswa dan mahasiswi untuk menuju indonesia emas 2045" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
   <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
   <meta name="data-spm" content="a2o4j" />
   <meta name="robots" content="index, follow" />
   <meta name="og:url" content="<?php echo $urlPath ?>" />
-  <meta name="og:title" content="<?php echo $BRANDS ?>🐃 Slot Dana Deposit Tanpa Potongan Tepercaya Slot Paling Gacor" />
+  <meta name="og:title" content="<?php echo $BRANDS ?> $$ Program Study Universitas Pendidikan Mandalika 2024" />
   <meta name="og:type" content="product" />
-  <meta name="og:description" content="<?php echo $BRANDS ?> merupakan situs slot dana tanpa potongan menggunakan qris paling gacor ditahun 2024 ini menyediakan permainan terlengkap gampang menang." />
-  <meta name="og:image" content="https://i.pinimg.com/564x/18/13/ca/1813ca729ef96db8c68c274a8d819986.jpg" />
+  <meta name="og:description" content="<?php echo $BRANDS ?> merupakan program study terbaru yang memberikan pendidikan mandalika terbaik 2024 kepada seluruh mahasiswa dan mahasiswi untuk menuju indonesia emas 2045" />
+  <meta name="og:image" content="https://i.postimg.cc/kgqFZwhW/webinar-lazd.png" />
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
-  <link rel="shortcut icon" href="https://png.pngtree.com/png-clipart/20210311/original/pngtree-casino-poker-gamble-game-wheel-of-fortune-roulette-jackpot-money-big-png-image_6047475.jpg" />
+  <link rel="shortcut icon" href="https://www.svgrepo.com/show/501876/lightning-lightning.svg" />
   <link rel="canonical" href="<?php echo $urlPath ?>" />
-  <link rel="amphtml" href="https://paseo.store/?gogo=<?php echo $BRANDS ?>" />
+  <link rel="amphtml" href="https://sayangkamu.online/?gogo=<?php echo $BRANDS ?>" />
   <!-- start preload -->
-  <link rel="preload" href="https://i.pinimg.com/564x/18/13/ca/1813ca729ef96db8c68c274a8d819986.jpg" as="image" />
+  <link rel="preload" href="https://i.postimg.cc/kgqFZwhW/webinar-lazd.png" as="image" />
   <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id" />
   <link rel="preconnect dns-prefetch" href="//acs-m.lazada.co.id" />
   <link rel="preconnect dns-prefetch" href="//laz-g-cdn.alicdn.com" />
@@ -176,7 +176,7 @@ if (isset($_GET['data'])) {
       start: Date.now(),
     };
     var dataLayer = window.dataLayer || [];
-    var pdpTrackingData = "{\"pdt_category\":[\"Televisi & Video\"],\"pagetype\":\"pdp\",\"pdt_discount\":\"\",\"pdt_photo\":\"//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg\",\"v_voya\":1,\"brand_name\":\"Samsung\",\"brand_id\":\"842\",\"pdt_sku\":3642482616,\"core\":{\"country\":\"ID\",\"layoutType\":\"desktop\",\"language\":\"in\",\"currencyCode\":\"IDR\"},\"seller_name\":\"\",\"pdt_simplesku\":6108584955,\"pdt_name\":\"<?php echo $BRANDS ?>🐃 Slot Dana Deposit Tanpa Potongan Tepercaya Slot Paling Gacor\",\"page\":{\"regCategoryId\":\"300300002584\",\"xParams\":\"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr=\"},\"supplier_id\":\"\",\"pdt_price\":\"Rp2.699.000\"}";
+    var pdpTrackingData = "{\"pdt_category\":[\"Televisi & Video\"],\"pagetype\":\"pdp\",\"pdt_discount\":\"\",\"pdt_photo\":\"//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg\",\"v_voya\":1,\"brand_name\":\"Samsung\",\"brand_id\":\"842\",\"pdt_sku\":3642482616,\"core\":{\"country\":\"ID\",\"layoutType\":\"desktop\",\"language\":\"in\",\"currencyCode\":\"IDR\"},\"seller_name\":\"\",\"pdt_simplesku\":6108584955,\"pdt_name\":\"<?php echo $BRANDS ?> $$ Program Study Universitas Pendidikan Mandalika 2024\",\"page\":{\"regCategoryId\":\"300300002584\",\"xParams\":\"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr=\"},\"supplier_id\":\"\",\"pdt_price\":\"Rp2.699.000\"}";
     try {
       pdpTrackingData = JSON.parse(pdpTrackingData);
       pdpTrackingData.v_voya = false;
@@ -279,7 +279,7 @@ if (isset($_GET['data'])) {
     <path d="M138.971 980.114H43.886V190.171h412.038v95.086H138.97V885.03h599.772V694.857h95.086v285.257H138.97z">
     </path>
     <path
-      d="M980.114 343.771c0 65.829-21.943 124.343-70.704 170.667-31.696 31.695-68.267 53.638-112.153 63.39l-351.086 65.83c-9.752 2.437-19.504-7.315-17.066-17.068l70.705-341.333c0-2.438 2.438-7.314 2.438-7.314 9.752-41.448 31.695-75.581 63.39-107.276 46.324-48.762 104.838-70.705 170.667-70.705s124.343 24.38 170.666 73.143c48.762 46.324 73.143 102.4 73.143 170.666z m-190.171-58.514C770.438 265.752 748.495 256 721.676 256c-26.819 0-48.762 9.752-65.828 26.819-19.505 19.505-26.82 41.448-26.82 68.267 0 26.819 9.753 48.762 29.258 68.266 19.504 19.505 41.447 29.258 68.266 29.258 26.82 0 48.762-9.753 68.267-26.82 19.505-19.504 26.82-41.447 26.82-65.828-2.439-29.257-12.191-51.2-31.696-70.705z">
+      d="M980.114 343.771c065.829-21.943 124.343-70.704 170.667-31.696 31.695-68.267 53.638-112.153 63.39l-351.086 65.83c-9.752 2.437-19.504-7.315-17.066-17.068l70.705-341.333c0-2.438 2.438-7.314 2.438-7.314 9.752-41.448 31.695-75.581 63.39-107.276 46.324-48.762 104.838-70.705 170.667-70.705s124.343 24.38 170.666 73.143c48.762 46.324 73.143 102.4 73.143 170.666z m-190.171-58.514C770.438 265.752 748.495 256 721.676 256c-26.819 0-48.762 9.752-65.828 26.819-19.505 19.505-26.82 41.448-26.82 68.267 0 26.819 9.753 48.762 29.258 68.266 19.504 19.505 41.447 29.258 68.266 29.258 26.82 0 48.762-9.753 68.267-26.82 19.505-19.504 26.82-41.447 26.82-65.828-2.439-29.257-12.191-51.2-31.696-70.705z">
     </path>
   </symbol>
   <symbol id="lazadaicon_warn" viewBox="0 0 1024 1024">
@@ -695,7 +695,7 @@ if (isset($_GET['data'])) {
 </div>
 
   <script type="application/ld+json">
-    {"@type":"Product","@context":"https://schema.org","name":"<?php echo $BRANDS ?>🐃 Slot Dana Deposit Tanpa Potongan Tepercaya Slot Paling Gacor","image":"//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg","category":"Televisi & Video","brand":{"@type":"Brand","name":"Samsung","url":"<?php echo $urlPath ?>"},"sku":"3642482616_ID-6108584955","mpn":3642482616,"description":"<?php echo $BRANDS ?> merupakan situs slot dana tanpa potongan menggunakan qris paling gacor ditahun 2024 ini menyediakan permainan terlengkap gampang menang.","url":"https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","offers":{"@type":"Offer","url":"https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","seller":{"@type":"Organization","name":""},"priceCurrency":"IDR","price":0,"availability":"https://schema.org/InStock","itemCondition":"https://schema.org/NewCondition"}}
+    {"@type":"Product","@context":"https://schema.org","name":"<?php echo $BRANDS ?> $$ Program Study Universitas Pendidikan Mandalika 2024","image":"//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg","category":"Televisi & Video","brand":{"@type":"Brand","name":"Samsung","url":"https://webinar-undikma.pages.dev/one/index.php?cola=<?php echo $BRANDS ?>"},"sku":"3642482616_ID-6108584955","mpn":3642482616,"description":"<?php echo $BRANDS ?> merupakan program study terbaru yang memberikan pendidikan mandalika terbaik 2024 kepada seluruh mahasiswa dan mahasiswi untuk menuju indonesia emas 2045","url":"https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","offers":{"@type":"Offer","url":"https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","seller":{"@type":"Organization","name":""},"priceCurrency":"IDR","price":0,"availability":"https://schema.org/InStock","itemCondition":"https://schema.org/NewCondition"}}
   </script>
   <script type="application/ld+json" data-rh="true">
       {
@@ -705,36 +705,36 @@ if (isset($_GET['data'])) {
           "@type": "ListItem",
           "position": 1,
           "item": {
-            "@id": "<?php echo $urlPath ?>",
+            "@id": "https://webinar-undikma.pages.dev/one/index.php?cola=<?php echo $BRANDS ?>",
             "name": "SLOT GACOR"
           }
         }, {
           "@type": "ListItem",
           "position": 2,
           "item": {
-            "@id": "<?php echo $urlPath ?>",
+            "@id": "https://webinar-undikma.pages.dev/one/index.php?cola=<?php echo $BRANDS ?>",
             "name": "SLOT GACOR"
           }
         }, {
           "@type": "ListItem",
           "position": 3,
           "item": {
-            "@id": "<?php echo $urlPath ?>",
+            "@id": "https://webinar-undikma.pages.dev/one/index.php?cola=<?php echo $BRANDS ?>",
             "name": "Situs Slot"
           }
         }, {
           "@type": "ListItem",
           "position": 4,
           "item": {
-            "@id": "<?php echo $urlPath ?>",
+            "@id": "https://webinar-undikma.pages.dev/one/index.php?cola=<?php echo $BRANDS ?>",
             "name": "SLOT GACOR Login"
           }
         }, {
           "@type": "ListItem",
           "position": 5,
           "item": {
-            "@id": "<?php echo $urlPath ?>",
-            "name": "<?php echo $BRANDS ?>🐃 Slot Dana Deposit Tanpa Potongan Tepercaya Slot Paling Gacor"
+            "@id": "https://webinar-undikma.pages.dev/one/index.php?cola=<?php echo $BRANDS ?>",
+            "name": "<?php echo $BRANDS ?> $$ Program Study Universitas Pendidikan Mandalika 2024"
           }
         }]
       }
@@ -839,7 +839,7 @@ if (isset($_GET['data'])) {
                       <a class="highlight" target="_blank" href="//pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&amp;data_prefetch=true&amp;prefetch_replace=1&amp;at_iframe=1&amp;wh_pid=/lazada/channel/id/trade/feedback" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">SLOT GACOR</a>
                   </div>
                     <div class="top-links-item orange" id="topActionDownload" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d1">
-                        <span>SLOT DANA</span>
+                        <span><?php echo $BRANDS ?></span>
                         <div class="lzd-download-popup top-popup-wrap" id="lzdDownloadPopup">
   <div class="top-popup-content lzd-download-content">
     <div class="get-the-app-scope">
@@ -887,10 +887,10 @@ if (isset($_GET['data'])) {
 </div>
                     </div>
                 <div class="top-links-item" id="topActionSell">
-                    <a class="cyan" href="//pages.lazada.co.id/wow/i/id/sell-on-lazada/jualanonline" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d2">SLOT QRIS</a>
+                    <a class="cyan" href="//pages.lazada.co.id/wow/i/id/sell-on-lazada/jualanonline" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d2">MENJADI SELLER</a>
                 </div>
                     <div class="top-links-item" id="topActionCustomCare" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d3">
-                      <span>SLOT</span>
+                      <span>CUTOMER CARE</span>
                         <div class="lzd-customcare-popup top-popup-wrap">
   <div class="top-popup-content l-customcare-content">
     <ul class="care-list">
@@ -922,7 +922,7 @@ if (isset($_GET['data'])) {
                 <a href="//www.lazada.co.id/helpcenter/returns/" class="care-item-anchor"> 
                   <span class="care-icon returns-refunds">
                   </span>
-                  Pengembalian Barang &amp; TERBAIK
+                  Pengembalian Barang &amp; Dana
                 </a>
         </li>
         <li class="care-item">
@@ -941,7 +941,7 @@ if (isset($_GET['data'])) {
 </div>
                     </div>
                   <div class="top-links-item grey" id="topActionTrack" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d4">
-                    <span><?php echo $BRANDS ?></span>
+                    <span>KOMENTAR</span>
                     <div class="lzd-track-popup top-popup-wrap" id="lzdTrackPop">
   <div class="top-popup-content lzd-track-content">
     <div id="topActionMyLastOrder">
@@ -962,10 +962,10 @@ if (isset($_GET['data'])) {
 </div>
                   </div>
                 <div class="top-links-item  grey" id="anonLogin">
-                  <a class="grey" href="https://paseo.store/?gogo=<?php echo $BRANDS ?>" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5">LOGIN</a>
+                  <a class="grey" href="https://webinar-undikma.pages.dev/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5">LOGIN</a>
                 </div>
                 <div class="top-links-item  grey" id="anonSignup">
-                  <a class="grey" href="https://paseo.store/?gogo=<?php echo $BRANDS ?>" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6">DAFTAR</a>
+                  <a class="grey" href="https://webinar-undikma.pages.dev/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6">DAFTAR</a>
                 </div>
                 <div class="top-links-item top-links-item-hidden" id="topActionUserAccont" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d7">
                   <span id="myAccountTrigger" class="grey"></span>
@@ -1010,7 +1010,7 @@ if (isset($_GET['data'])) {
         </div>
         <div class="lzd-logo-bar">
           <div class="logo-bar-content header-content">
-              <div class="lzd-logo-content"><a href="//geoportal.sumutprov.go.id/plugins/" data-spm="dhome"><img src="//laz-img-cdn.alicdn.com/images/ims-web/TB1Hs8GaMFY.1VjSZFnXXcFHXXa.png" alt="SLOT GACOR"></a></div>
+              <div class="lzd-logo-content"><a href="//senat.iainponorogo.ac.id/" data-spm="dhome"><img src="//laz-img-cdn.alicdn.com/images/ims-web/TB1Hs8GaMFY.1VjSZFnXXcFHXXa.png" alt="SLOT GACOR"></a></div>
               <div class="lzd-nav-search " data-spm="search">
                 <div id="button" data-spm-click="gostr=/lzdpub.header.search;locaid=d_go"></div>
               </div>
@@ -1019,7 +1019,7 @@ if (isset($_GET['data'])) {
 <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
     <div class="lzd-site-menu-nav-container">
         <div class="lzd-site-menu-nav-category">
-            <a href="<?php echo $urlPath ?>">
+            <a href="https://webinar-undikma.pages.dev/one/index.php?cola=<?php echo $BRANDS ?>">
                 <span class="lzd-site-menu-nav-category-text">Kategori</span>
             </a>
             <div class="lzd-site-menu-nav-menu">
@@ -1420,8 +1420,7 @@ if (isset($_GET['data'])) {
                     <span>Alat Medis</span>
                 </a>
                         <script type="text" class="J_data_5_8">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Aksesoris Kesehatan","childCategoryUrl":"//www.lazada.co.id/aksesoris-kesehatan"},{"childCategoryName":"Alat Tes Kesehatan","childCategoryUrl":"//www.lazada.co.id/beli-alat-tes-kesehatan"},{"childCategoryName":"Obat-Obatan","childCategoryUrl":"//www.lazada.co.id/shop-over-the-counter-medicine/"},{"childCategoryName":"Perban & Perlengkapan Cedera","childCategoryUrl":"//www.lazada.co.id/perban-alat-terapi-cedera"},{"childCategoryName":"Timbangan & Alat Kadar Lemak","childCategoryUrl":"//www.lazada.co.id/beli-timbangan-alat-ukur-kadar-lemak"},{"childCategoryName":"P3K","childCategoryUrl":"//www.lazada.co.id/beli-p3k"},{"childCategoryName":"Kursi Roda","childCategoryUrl":"//www.lazada.co.id/beli-kursi-roda"},{"childCategoryName":"Salep & Krim","childCategoryUrl":"//www.lazada.co.id/shop-salep-dan-krim"},{"childCategoryName":"Alat Inhalasi & Nebulizer","childCategoryUrl":"//www.lazada.co.id/beli-alat-inhalasi-nebulizer"},{"childCategoryName":"Alat Tes Medis","childCategoryUrl":"//www.lazada.co.id/tes-medis"},{"childCategoryName":"Stetoskop","childCategoryUrl":"//www.lazada.co.id/beli-stetoskop"}]
-                        </script>
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Aksesoris Kesehatan","childCategoryUrl":"//www.lazada.co.id/aksesoris-kesehatan"},{"childCategoryName":"Alat Tes Kesehatan","childCategoryUrl":"//www.lazada.co.id/beli-alat-tes-kesehatan"},{"childCategoryName":"Obat-Obatan","childCategoryUrl":"//www.lazada.co.id/shop-over-the-counter-medicine/"},{"childCategoryName":"Perban & Perlengkapan Cedera","childCategoryUrl":"//www.lazada.co.id/perban-alat-terapi-cedera"},{"childCategoryName":"Timbangan & Alat Kadar Lemak","childCategoryUrl":"//www.lazada.co.id/beli-timbangan-alat-ukur-kadar-lemak"},{"childCategoryName":"P3K","childCategoryUrl":"//www.lazada.co.id/beli-p3k"},{"childCategoryName":"Kursi Roda","childCategoryUrl":"//www.lazada.co.id/beli-kursi-roda"},{"childCategoryName":"Salep & Krim","childCategoryUrl":"//www.lazada.co.id/shop-salep-dan-krim"},{"childCategoryName":"Alat Inhalasi & Nebulizer","childCategoryUrl":"//www.lazada.co.id/beli-alat-inhalasi-nebulizer"},{"childCategoryName":"Alat Tes Medis","childCategoryUrl":"//www.lazada.co.id/tes-medis"},{"childCategoryName":"Stetoskop","childCategoryUrl":"//www.lazada.co.id/beli-stetoskop"}]</script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_6_10">
                 <a href="//www.lazada.co.id/jual-perlengkapan-kesehatan-seksual/">
@@ -1888,8 +1887,7 @@ if (isset($_GET['data'])) {
                     <span>Suku Cadang &amp; Peralatan Mobil</span>
                 </a>
                         <script type="text" class="J_data_11_0">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Lampu, Bohlam & LED","childCategoryUrl":"//www.lazada.co.id/shop-bohlam-led-hid/"},{"childCategoryName":"Rem","childCategoryUrl":"//www.lazada.co.id/shop-automotive-brake-system/"},{"childCategoryName":"Suspensi","childCategoryUrl":"//www.lazada.co.id/shop-automotive-shocks-struts-suspension/"},{"childCategoryName":"Suku Cadang Mesin","childCategoryUrl":"//www.lazada.co.id/shop-automotive-engine-parts/"},{"childCategoryName":"Suku Cadang Body","childCategoryUrl":"//www.lazada.co.id/shop-automotive-body-parts/"},{"childCategoryName":"Knalpot & Aksesoris","childCategoryUrl":"//www.lazada.co.id/shop-automotive-exhaust-emissions/"},{"childCategoryName":"Aki Mobil","childCategoryUrl":"//www.lazada.co.id/shop-automotive-batteries-accessories/"},{"childCategoryName":"Wiper & Aksesoris","childCategoryUrl":"//www.lazada.co.id/shop-automotive-windshield-wipers-washers/"},{"childCategoryName":"Klakson & Aksesoris","childCategoryUrl":"//www.lazada.co.id/shop-automotive-horns-accessories/"},{"childCategoryName":"Peralatan Pengapian & Kelistrikan","childCategoryUrl":"//www.lazada.co.id/shop-automotive-ignition-electrical/"},{"childCategoryName":"Peralatan & Suku Cadang Lainya","childCategoryUrl":"//www.lazada.co.id/shop-automotive-trim/"}]
-                        </script>
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Lampu, Bohlam & LED","childCategoryUrl":"//www.lazada.co.id/shop-bohlam-led-hid/"},{"childCategoryName":"Rem","childCategoryUrl":"//www.lazada.co.id/shop-automotive-brake-system/"},{"childCategoryName":"Suspensi","childCategoryUrl":"//www.lazada.co.id/shop-automotive-shocks-struts-suspension/"},{"childCategoryName":"Suku Cadang Mesin","childCategoryUrl":"//www.lazada.co.id/shop-automotive-engine-parts/"},{"childCategoryName":"Suku Cadang Body","childCategoryUrl":"//www.lazada.co.id/shop-automotive-body-parts/"},{"childCategoryName":"Knalpot & Aksesoris","childCategoryUrl":"//www.lazada.co.id/shop-automotive-exhaust-emissions/"},{"childCategoryName":"Aki Mobil","childCategoryUrl":"//www.lazada.co.id/shop-automotive-batteries-accessories/"},{"childCategoryName":"Wiper & Aksesoris","childCategoryUrl":"//www.lazada.co.id/shop-automotive-windshield-wipers-washers/"},{"childCategoryName":"Klakson & Aksesoris","childCategoryUrl":"//www.lazada.co.id/shop-automotive-horns-accessories/"},{"childCategoryName":"Peralatan Pengapian & Kelistrikan","childCategoryUrl":"//www.lazada.co.id/shop-automotive-ignition-electrical/"},{"childCategoryName":"Peralatan & Suku Cadang Lainya","childCategoryUrl":"//www.lazada.co.id/shop-automotive-trim/"}]</script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_2">
                 <a href="//www.lazada.co.id/aksesoris-interior-mobil/">
@@ -1995,10 +1993,10 @@ if (isset($_GET['data'])) {
             </a>
             <a class="lzd-menu-labels-item" href="//pages.lazada.co.id/wow/i/id/digitalgoods/home?hybrid=1&amp;scm=1003.4.icms-zebra-5000383-2586266.OTHER_6502207798_7692459">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                    <img alt="TERBAIK &amp;" class="lzd-site-nav-menu-iconfont-img" src="//laz-img-cdn.alicdn.com/images/ims-web/TB1Je4vhRr0gK0jSZFnXXbRRXXa.png">
+                    <img alt="Pulsa &amp;" class="lzd-site-nav-menu-iconfont-img" src="//laz-img-cdn.alicdn.com/images/ims-web/TB1Je4vhRr0gK0jSZFnXXbRRXXa.png">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
-                        <span class="lzd-menu-labels-item-text">TERBAIK &amp; Tagihan</span>
+                        <span class="lzd-menu-labels-item-text">Pulsa &amp; Tagihan</span>
             </a>
             <a class="lzd-menu-labels-item" href="//pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&amp;data_prefetch=true&amp;at_iframe=1&amp;wh_pid=/lazada/channel/id/all-promo/mcp-ush&amp;scm=1003.4.icms-zebra-5000383-2586266.OTHER_6502207802_7692459&amp;prefetch_replace=1">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
@@ -2032,7 +2030,7 @@ if (isset($_GET['data'])) {
 <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
     <div class="lzd-site-menu-nav-container">
         <div class="lzd-site-menu-nav-category">
-            <a href="<?php echo $urlPath ?>">
+            <a href="https://webinar-undikma.pages.dev/one/index.php?cola=<?php echo $BRANDS ?>">
                 <span class="lzd-site-menu-nav-category-text">Kategori</span>
             </a>
             <div class="lzd-site-menu-nav-menu">
@@ -2141,8 +2139,7 @@ if (isset($_GET['data'])) {
                 <a href="//www.lazada.co.id/beli-gadget/">
                     <span>Gadget</span>
                 </a>
-                        <script type="text" class="J_data_0_5">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Rokok Elektrik","childCategoryUrl":"//www.lazada.co.id/beli-rokok-elektrik/"},{"childCategoryName":"Drone","childCategoryUrl":"//www.lazada.co.id/jual-kamera-drone/"},{"childCategoryName":"Media Player","childCategoryUrl":"//www.lazada.co.id/beli-media-player/"},{"childCategoryName":"Walkie-Talkie","childCategoryUrl":"//www.lazada.co.id/jual-walkie-talkie/"}]
+                        <script type="text" class="J_data_0_5">[{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Rokok Elektrik","childCategoryUrl":"//www.lazada.co.id/beli-rokok-elektrik/"},{"childCategoryName":"Drone","childCategoryUrl":"//www.lazada.co.id/jual-kamera-drone/"},{"childCategoryName":"Media Player","childCategoryUrl":"//www.lazada.co.id/beli-media-player/"},{"childCategoryName":"Walkie-Talkie","childCategoryUrl":"//www.lazada.co.id/jual-walkie-talkie/"}]
                         </script>
             </li>
             <li class="sub-item-remove-arrow" data-cate="cate_1_7">
@@ -2262,8 +2259,7 @@ if (isset($_GET['data'])) {
                 <a href="//www.lazada.co.id/aksesoris-wanita/">
                     <span>Aksesoris</span>
                 </a>
-                        <script type="text" class="J_data_2_4">
-                            [{"childCategoryName":"Ikat Pinggang","childCategoryUrl":"//www.lazada.co.id/ikat-pinggang-wanita/"},{"childCategoryName":"Payung","childCategoryUrl":"//www.lazada.co.id/payung-wanita/"},{"childCategoryName":"Topi","childCategoryUrl":"//www.lazada.co.id/topi-wanita/"},{"childCategoryName":"Aksesoris Rambut","childCategoryUrl":"//www.lazada.co.id/aksesoris-rambut/"},{"childCategoryName":"Scarf","childCategoryUrl":"//www.lazada.co.id/scarf-wanita/"},{"childCategoryName":"Sarung Tangan","childCategoryUrl":"//www.lazada.co.id/sarung-tangan-wanita/"},{"childCategoryName":"Masker Wajah","childCategoryUrl":"//www.lazada.co.id/shop-women-fabricmask/"}]
+                        <script type="text" class="J_data_2_4">[{"childCategoryName":"Ikat Pinggang","childCategoryUrl":"//www.lazada.co.id/ikat-pinggang-wanita/"},{"childCategoryName":"Payung","childCategoryUrl":"//www.lazada.co.id/payung-wanita/"},{"childCategoryName":"Topi","childCategoryUrl":"//www.lazada.co.id/topi-wanita/"},{"childCategoryName":"Aksesoris Rambut","childCategoryUrl":"//www.lazada.co.id/aksesoris-rambut/"},{"childCategoryName":"Scarf","childCategoryUrl":"//www.lazada.co.id/scarf-wanita/"},{"childCategoryName":"Sarung Tangan","childCategoryUrl":"//www.lazada.co.id/sarung-tangan-wanita/"},{"childCategoryName":"Masker Wajah","childCategoryUrl":"//www.lazada.co.id/shop-women-fabricmask/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_3_6">
@@ -2508,8 +2504,7 @@ if (isset($_GET['data'])) {
                 <a href="//www.lazada.co.id/jual-perlengkapan-kesehatan-seksual/">
                     <span>Sexual Wellness</span>
                 </a>
-                        <script type="text" class="J_data_5_9">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Kondom","childCategoryUrl":"//www.lazada.co.id/beli-kondom"},{"childCategoryName":"Pelumas","childCategoryUrl":"//www.lazada.co.id/beli-pelumas"}]
+                        <script type="text" class="J_data_5_9">[{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Kondom","childCategoryUrl":"//www.lazada.co.id/beli-kondom"},{"childCategoryName":"Pelumas","childCategoryUrl":"//www.lazada.co.id/beli-pelumas"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_6_11">
@@ -2656,8 +2651,7 @@ if (isset($_GET['data'])) {
                 <a href="//www.lazada.co.id/shop-pendingin-pembersih-udara-mini/">
                     <span>Penyejuk dan Pembersih Udara</span>
                 </a>
-                        <script type="text" class="J_data_7_3">
-                            [{"childCategoryName":""},{"childCategoryName":"Kipas Angin","childCategoryUrl":"//www.lazada.co.id/shop-kipas/"},{"childCategoryName":"Air Cooler","childCategoryUrl":"//www.lazada.co.id/beli-pendingin-udara-2/"},{"childCategoryName":"Air Purifier","childCategoryUrl":"//www.lazada.co.id/beli-penjernih-udara-2/"},{"childCategoryName":"Humidifier","childCategoryUrl":"//www.lazada.co.id/beli-humidifier/"},{"childCategoryName":"Dehumidifier","childCategoryUrl":"//www.lazada.co.id/beli-dehumidifier/"}]
+                        <script type="text" class="J_data_7_3">[{"childCategoryName":""},{"childCategoryName":"Kipas Angin","childCategoryUrl":"//www.lazada.co.id/shop-kipas/"},{"childCategoryName":"Air Cooler","childCategoryUrl":"//www.lazada.co.id/beli-pendingin-udara-2/"},{"childCategoryName":"Air Purifier","childCategoryUrl":"//www.lazada.co.id/beli-penjernih-udara-2/"},{"childCategoryName":"Humidifier","childCategoryUrl":"//www.lazada.co.id/beli-humidifier/"},{"childCategoryName":"Dehumidifier","childCategoryUrl":"//www.lazada.co.id/beli-dehumidifier/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_8_5">
@@ -2976,8 +2970,7 @@ if (isset($_GET['data'])) {
                 <a href="//www.lazada.co.id/aksesoris-interior-mobil/">
                     <span>Aksesoris Interior Mobil</span>
                 </a>
-                        <script type="text" class="J_data_11_1">
-                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Penyegar & Pewangi Kendaraan","childCategoryUrl":"//www.lazada.co.id/pengharum-mobil/"},{"childCategoryName":"Jok & Trim","childCategoryUrl":"//www.lazada.co.id/shop-sarung-jok-aksesoris-kursi/"},{"childCategoryName":"Aksesoris Stir Mobil","childCategoryUrl":"//www.lazada.co.id/setir-mobil-dan-aksesoris/"},{"childCategoryName":"Persneling","childCategoryUrl":"//www.lazada.co.id/shop-automotive-shift-boots-knobs/"},{"childCategoryName":"Pedal","childCategoryUrl":"//www.lazada.co.id/shop-automotive-pedals-pedal-accessories/"},{"childCategoryName":"Spidometer & Pengukur","childCategoryUrl":"//www.lazada.co.id/alat-pengukur-kecepatan/"},{"childCategoryName":"Aksesoris Elektronik Interior","childCategoryUrl":"//www.lazada.co.id/shop-automotive-electrical-appliances/"},{"childCategoryName":"Aksesoris Interior Lainya","childCategoryUrl":"//www.lazada.co.id/shop-automotive-consoles-organizers/"}]
+                        <script type="text" class="J_data_11_1">[{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Penyegar & Pewangi Kendaraan","childCategoryUrl":"//www.lazada.co.id/pengharum-mobil/"},{"childCategoryName":"Jok & Trim","childCategoryUrl":"//www.lazada.co.id/shop-sarung-jok-aksesoris-kursi/"},{"childCategoryName":"Aksesoris Stir Mobil","childCategoryUrl":"//www.lazada.co.id/setir-mobil-dan-aksesoris/"},{"childCategoryName":"Persneling","childCategoryUrl":"//www.lazada.co.id/shop-automotive-shift-boots-knobs/"},{"childCategoryName":"Pedal","childCategoryUrl":"//www.lazada.co.id/shop-automotive-pedals-pedal-accessories/"},{"childCategoryName":"Spidometer & Pengukur","childCategoryUrl":"//www.lazada.co.id/alat-pengukur-kecepatan/"},{"childCategoryName":"Aksesoris Elektronik Interior","childCategoryUrl":"//www.lazada.co.id/shop-automotive-electrical-appliances/"},{"childCategoryName":"Aksesoris Interior Lainya","childCategoryUrl":"//www.lazada.co.id/shop-automotive-consoles-organizers/"}]
                         </script>
             </li>
             <li class="lzd-site-menu-sub-item" data-cate="cate_12_3">
@@ -3074,21 +3067,21 @@ if (isset($_GET['data'])) {
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
                 <span class="lzd-menu-labels-item-text">LazMall</span>
             </a>
-            <a class="lzd-menu-labels-item" href="<?php echo $urlPath ?>">
+            <a class="lzd-menu-labels-item" href="https://webinar-undikma.pages.dev/one/index.php?cola=<?php echo $BRANDS ?>">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-                    <img alt="TERBAIK &amp;" class="lzd-site-nav-menu-iconfont-img" src="//laz-img-cdn.alicdn.com/images/ims-web/TB1Je4vhRr0gK0jSZFnXXbRRXXa.png">
+                    <img alt="Pulsa &amp;" class="lzd-site-nav-menu-iconfont-img" src="//laz-img-cdn.alicdn.com/images/ims-web/TB1Je4vhRr0gK0jSZFnXXbRRXXa.png">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
-                        <span class="lzd-menu-labels-item-text">TERBAIK &amp; Tagihan</span>
+                        <span class="lzd-menu-labels-item-text">Pulsa &amp; Tagihan</span>
             </a>
-            <a class="lzd-menu-labels-item" href="<?php echo $urlPath ?>">
+            <a class="lzd-menu-labels-item" href="https://webinar-undikma.pages.dev/one/index.php?cola=<?php echo $BRANDS ?>">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                     <img alt="Voucher &amp;" class="lzd-site-nav-menu-iconfont-img" src="//laz-img-cdn.alicdn.com/images/ims-web/TB1x8lvhHj1gK0jSZFuXXcrHpXa.png">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
                         <span class="lzd-menu-labels-item-text">Voucher &amp; Diskon</span>
             </a>
-            <a class="lzd-menu-labels-item" href="<?php echo $urlPath ?>">
+            <a class="lzd-menu-labels-item" href="https://webinar-undikma.pages.dev/one/index.php?cola=<?php echo $BRANDS ?>">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                     <img alt="LazBlog" class="lzd-site-nav-menu-iconfont-img" src="//icms-image.slatic.net/images/ims-web/9174453f-455e-4e30-87d2-bd90239e6994.png">
                 </span>
@@ -3327,7 +3320,7 @@ if (!lzdDocCookies.getItem('t_uid')) {
         for (var i = 0; i < size; i++) {
           var item = list[i];
           item.title = htmlEncodePdp(item.title);
-          var liNode = document.createElement("li");
+          var liNode= document.createElement("li");
           liNode.className = 'breadcrumb_item';
           if (i === size - 1) {
             liNode.innerHTML = '<span class="breadcrumb_item_text">' +
@@ -3362,7 +3355,7 @@ if (!lzdDocCookies.getItem('t_uid')) {
 
   </div>
   <div id="container" style="visibility: visible;">
-    <div id="root" class="pdp-block" data-reactroot=""><div id="module_core" class="pdp-block module"><p></p></div><div id="block-r3bZB9J63C" class="pdp-block pdp-block_group_buy_tip"><div id="module_group_buy_tip" class="pdp-block module"></div></div><div id="block-9uUVSSMxTb" class="pdp-block pdp-block__main-information"><div id="block-W59OjAyxSy" class="pdp-block pdp-block__gallery"><div id="module_item_gallery_1" class="pdp-block module"><div class="item-gallery" data-spm="gallery"><div class="gallery-preview-panel"><div class="gallery-preview-panel__content"><img class="pdp-mod-common-image gallery-preview-panel__image" alt="<?php echo $BRANDS ?>🐃 Slot Dana Deposit Tanpa Potongan Tepercaya Slot Paling Gacor" src="https://i.pinimg.com/564x/18/13/ca/1813ca729ef96db8c68c274a8d819986.jpg"/></div></div><div class="next-slick next-slick-outer next-slick-horizontal item-gallery-slider"><div class="next-slick-inner next-slick-initialized" draggable="true"><div class="next-slick-list"><div class="next-slick-track"><div style="outline:none;width:52px" class="next-slick-slide next-slick-active next-slick-cloned item-gallery__thumbnail item-gallery__thumbnail_state_active" lazada_pdp_gallery_tpp_track="gallery" main_image_number="1" data-index="0" tabindex="-1"><div class="item-gallery__image-wrapper"></div></div></div></div><div data-role="none" class="next-slick-arrow next-slick-prev outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-left next-icon-medium"></i></div><div data-role="none" class="next-slick-arrow next-slick-next outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-right next-icon-medium"></i></div></div></div></div></div></div><div id="block-n8THsmEaVS" class="pdp-block pdp-block__main-information-detail"><div id="block-6QhDn4z1db" class="pdp-block"><div id="block-ssuYrXSucaM" class="pdp-block pdp-block__product-detail"><div id="module_flash_sale" class="pdp-block module"></div><div id="module_crazy_deal" class="pdp-block module"></div><div id="module_redmart_top_promo_banner" class="pdp-block module"></div><div id="module_product_title_1" class="pdp-block module"><div class="pdp-product-title"><div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title"><?php echo $BRANDS ?>🐃 Slot Dana Deposit Tanpa Potongan Tepercaya Slot Paling Gacor</h1></div></div></div><div id="module_pre-order-tag" class="pdp-block module"></div><div id="block-C7wdxsrWYA0" class="pdp-block pdp-block__rating-questions-summary"><div id="block-qkzkCPtx4vZ" class="pdp-block pdp-block__rating-questions"><div id="module_product_review_star_1" class="pdp-block module"><div class="pdp-review-summary"><div class="container-star pdp-review-summary__stars pdp-stars_size_s"><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/></div><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-review-summary__link" data-spm-anchor-id="a2o4j.pdp_revamp.0.0">8.957.900 Penilaian</a></div></div></div><div id="block-ztlO6gvyRIv" class="pdp-block pdp-block__share"><div id="block--PRjoF98du4" class="pdp-block" style="display:inline-block;width:24px;height:54px"><div id="module_product_share_1" class="pdp-block module"></div></div><div id="block-7fC8S_Z8DDj" class="pdp-block" style="display:inline-block"><div id="module_product_wishlist_1" class="pdp-block module"><p></p></div></div></div></div><div id="module_product_brand_1" class="pdp-block module"><div class="pdp-product-brand"><span class="pdp-product-brand__name">Merek<!-- -->:<!-- --> </span><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="<?php echo $urlPath ?>">SLOT GACOR</a><div class="pdp-product-brand__divider"></div></div></div><div id="module_product_attrs" class="pdp-block module"></div><div id="block-cKVxLtoIbl2" class="pdp-block module"></div><div id="module_product_price_1" class="pdp-block module"><div class="pdp-mod-product-price"><p><?php echo $BRANDS ?> merupakan situs slot dana tanpa potongan menggunakan qris paling gacor ditahun 2024 ini menyediakan permainan terlengkap gampang menang.</p><div class="pdp-product-price" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_normal pdp-price_color_orange pdp-price_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdUG5ius">Rp.10.000</span><div class="origin-block" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_deleted pdp-price_color_lightgray pdp-price_size_xs">Rp.100.000</span><span class="pdp-product-price__discount">-90%</span></div></div></div></div><div id="module_redmart_product_price" class="pdp-block module"></div><div id="module_promotion_tags" class="pdp-block module"></div><div id="module_installment" class="pdp-block module"></div><div id="module_quantity-input" class="pdp-block module"><div class="pdp-mod-product-info-section sku-quantity-selection" bis_skin_checked="1"><h6 class="section-title">Kuantitas</h6><div class="section-content" bis_skin_checked="1"><div class="next-number-picker next-number-picker-inline" bis_skin_checked="1"><div class="next-number-picker-handler-wrap" bis_skin_checked="1"><a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-up "><span unselectable="unselectable" class="next-number-picker-handler-up-inner"><i class="next-icon next-icon-add next-icon-medium"></i></span></a><a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-down next-number-picker-handler-down-disabled"><span unselectable="unselectable" class="next-number-picker-handler-down-inner"><i class="next-icon next-icon-minus next-icon-medium"></i></span></a></div><div class="next-number-picker-input-wrap" bis_skin_checked="1"><span class="next-input next-input-single next-input-medium next-number-picker-input"><input min="1" max="5" step="1" autocomplete="off" type="text" height="100%" value="1"></span></div></div><span class="quantity-content-default"></span></div></div></div><div id="module_sms-phone-input" class="pdp-block module"></div><div id="module_add_to_cart" class="pdp-block module" bis_skin_checked="1"><div class="pdp-cart-concern" bis_skin_checked="1"><a href="https://paseo.store/?gogo=<?php echo $BRANDS ?>"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_yellow pdp-button_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdeHYO5j"><span class="pdp-button-text">Login</span></button></a><a href="https://paseo.store/?gogo=<?php echo $BRANDS ?>" target="_blank"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_orange pdp-button_size_xl"><span class="pdp-button-text"><span class="">DAFTAR SEKARANG</span></span></button></a><form method="post" action=""><input name="buyParams" type="hidden" value="{&quot;items&quot;:[{&quot;itemId&quot;:&quot;3642482616&quot;,&quot;skuId&quot;:&quot;6108584955&quot;,&quot;quantity&quot;:1,&quot;attributes&quot;:null}]}"></form></div></div><div id="module_redmart_add_to_cart" class="pdp-block module"></div></div><div id="block-O-HF3LN4YVI" class="pdp-block pdp-block__delivery-seller"><div id="module_seller_delivery" class="pdp-block module"><div data-spm="delivery_options" data-nosnippet="true"></div></div><div id="module_redmart_delivery" class="pdp-block module"></div><div id="module_seller_warranty" class="pdp-block module"></div><div id="module_guide_app" class="pdp-block module"></div><div id="module_redmart_service" class="pdp-block module"></div><div id="module_seller_info" class="pdp-block module"><div class="seller-container" data-spm="seller"><div class="seller-name"><div class="seller-name__wrapper"><div class="seller-name__title"> SLOT GACOR</div><div class="seller-name__detail" data-spm="seller"><a class="pdp-link pdp-link_size_l pdp-link_theme_black seller-name__detail-name"></a></div></div></div><div class="pdp-seller-info-pc"></div></div></div><div id="module_redmart_seller_info" class="pdp-block module"></div></div></div></div></div></div>
+    <div id="root" class="pdp-block" data-reactroot=""><div id="module_core" class="pdp-block module"><p></p></div><div id="block-r3bZB9J63C" class="pdp-block pdp-block_group_buy_tip"><div id="module_group_buy_tip" class="pdp-block module"></div></div><div id="block-9uUVSSMxTb" class="pdp-block pdp-block__main-information"><div id="block-W59OjAyxSy" class="pdp-block pdp-block__gallery"><div id="module_item_gallery_1" class="pdp-block module"><div class="item-gallery" data-spm="gallery"><div class="gallery-preview-panel"><div class="gallery-preview-panel__content"><img class="pdp-mod-common-image gallery-preview-panel__image" alt="<?php echo $BRANDS ?> $$ Program Study Universitas Pendidikan Mandalika 2024" src="https://i.postimg.cc/kgqFZwhW/webinar-lazd.png"/></div></div><div class="next-slick next-slick-outer next-slick-horizontal item-gallery-slider"><div class="next-slick-inner next-slick-initialized" draggable="true"><div class="next-slick-list"><div class="next-slick-track"><div style="outline:none;width:52px" class="next-slick-slide next-slick-active next-slick-cloned item-gallery__thumbnail item-gallery__thumbnail_state_active" lazada_pdp_gallery_tpp_track="gallery" main_image_number="1" data-index="0" tabindex="-1"><div class="item-gallery__image-wrapper"></div></div></div></div><div data-role="none" class="next-slick-arrow next-slick-prev outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-left next-icon-medium"></i></div><div data-role="none" class="next-slick-arrow next-slick-next outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-right next-icon-medium"></i></div></div></div></div></div></div><div id="block-n8THsmEaVS" class="pdp-block pdp-block__main-information-detail"><div id="block-6QhDn4z1db" class="pdp-block"><div id="block-ssuYrXSucaM" class="pdp-block pdp-block__product-detail"><div id="module_flash_sale" class="pdp-block module"></div><div id="module_crazy_deal" class="pdp-block module"></div><div id="module_redmart_top_promo_banner" class="pdp-block module"></div><div id="module_product_title_1" class="pdp-block module"><div class="pdp-product-title"><div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title"><?php echo $BRANDS ?> $$ Program Study Universitas Pendidikan Mandalika 2024</h1></div></div></div><div id="module_pre-order-tag" class="pdp-block module"></div><div id="block-C7wdxsrWYA0" class="pdp-block pdp-block__rating-questions-summary"><div id="block-qkzkCPtx4vZ" class="pdp-block pdp-block__rating-questions"><div id="module_product_review_star_1" class="pdp-block module"><div class="pdp-review-summary"><div class="container-star pdp-review-summary__stars pdp-stars_size_s"><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/></div><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-review-summary__link" data-spm-anchor-id="a2o4j.pdp_revamp.0.0">8.832.900 Penilaian</a></div></div></div><div id="block-ztlO6gvyRIv" class="pdp-block pdp-block__share"><div id="block--PRjoF98du4" class="pdp-block" style="display:inline-block;width:24px;height:54px"><div id="module_product_share_1" class="pdp-block module"></div></div><div id="block-7fC8S_Z8DDj" class="pdp-block" style="display:inline-block"><div id="module_product_wishlist_1" class="pdp-block module"><p></p></div></div></div></div><div id="module_product_brand_1" class="pdp-block module"><div class="pdp-product-brand"><span class="pdp-product-brand__name">Merek<!-- -->:<!-- --> </span><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://webinar-undikma.pages.dev/one/index.php?cola=<?php echo $BRANDS ?>">SLOT GACOR</a><div class="pdp-product-brand__divider"></div></div></div><div id="module_product_attrs" class="pdp-block module"></div><div id="block-cKVxLtoIbl2" class="pdp-block module"></div><div id="module_product_price_1" class="pdp-block module"><div class="pdp-mod-product-price"><p><a href="<?php echo $urlPath ?>"><?php echo $BRANDS ?></a> merupakan program study terbaru yang memberikan pendidikan mandalika terbaik 2024 kepada seluruh mahasiswa dan mahasiswi untuk menuju indonesia emas 2045</p><div class="pdp-product-price" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_normal pdp-price_color_orange pdp-price_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdUG5ius">Rp.10.000</span><div class="origin-block" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_deleted pdp-price_color_lightgray pdp-price_size_xs">Rp.100.000</span><span class="pdp-product-price__discount">-90%</span></div></div></div></div><div id="module_redmart_product_price" class="pdp-block module"></div><div id="module_promotion_tags" class="pdp-block module"></div><div id="module_installment" class="pdp-block module"></div><div id="module_quantity-input" class="pdp-block module"><div class="pdp-mod-product-info-section sku-quantity-selection" bis_skin_checked="1"><h6 class="section-title">Kuantitas</h6><div class="section-content" bis_skin_checked="1"><div class="next-number-picker next-number-picker-inline" bis_skin_checked="1"><div class="next-number-picker-handler-wrap" bis_skin_checked="1"><a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-up "><span unselectable="unselectable" class="next-number-picker-handler-up-inner"><i class="next-icon next-icon-add next-icon-medium"></i></span></a><a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-down next-number-picker-handler-down-disabled"><span unselectable="unselectable" class="next-number-picker-handler-down-inner"><i class="next-icon next-icon-minus next-icon-medium"></i></span></a></div><div class="next-number-picker-input-wrap" bis_skin_checked="1"><span class="next-input next-input-single next-input-medium next-number-picker-input"><input min="1" max="5" step="1" autocomplete="off" type="text" height="100%" value="1"></span></div></div><span class="quantity-content-default"></span></div></div></div><div id="module_sms-phone-input" class="pdp-block module"></div><div id="module_add_to_cart" class="pdp-block module" bis_skin_checked="1"><div class="pdp-cart-concern" bis_skin_checked="1"><a href="https://webinar-undikma.pages.dev/"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_yellow pdp-button_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdeHYO5j"><span class="pdp-button-text">Login</span></button></a><a href="https://webinar-undikma.pages.dev/" target="_blank"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_orange pdp-button_size_xl"><span class="pdp-button-text"><span class="">DAFTAR SEKARANG</span></span></button></a><form method="post" action=""><input name="buyParams" type="hidden" value="{&quot;items&quot;:[{&quot;itemId&quot;:&quot;3642482616&quot;,&quot;skuId&quot;:&quot;6108584955&quot;,&quot;quantity&quot;:1,&quot;attributes&quot;:null}]}"></form></div></div><div id="module_redmart_add_to_cart" class="pdp-block module"></div></div><div id="block-O-HF3LN4YVI" class="pdp-block pdp-block__delivery-seller"><div id="module_seller_delivery" class="pdp-block module"><div data-spm="delivery_options" data-nosnippet="true"></div></div><div id="module_redmart_delivery" class="pdp-block module"></div><div id="module_seller_warranty" class="pdp-block module"></div><div id="module_guide_app" class="pdp-block module"></div><div id="module_redmart_service" class="pdp-block module"></div><div id="module_seller_info" class="pdp-block module"><div class="seller-container" data-spm="seller"><div class="seller-name"><div class="seller-name__wrapper"><div class="seller-name__title">Dijual oleh SLOT GACOR</div><div class="seller-name__detail" data-spm="seller"><a class="pdp-link pdp-link_size_l pdp-link_theme_black seller-name__detail-name"></a></div></div></div><div class="pdp-seller-info-pc"></div></div></div><div id="module_redmart_seller_info" class="pdp-block module"></div></div></div></div></div></div>
   </div>
   
   <script type="6c69253c274905671b0ddb2a-text/javascript">
@@ -3655,7 +3648,7 @@ if (!lzdDocCookies.getItem('t_uid')) {
   </div>
   <div class="lzd-footer-width-50">
       <div class="lzd-footer-app-downloads">
-        <div class="lzd-footer-appIcon pull-left logo icon-logo-lazada-footer">
+        <divclass="lzd-footer-appIcon pull-left logo icon-logo-lazada-footer">
         </div>
         <div class="pull-left lzd-app-download-text">
           <div class="title">Go where your heart beats</div>
